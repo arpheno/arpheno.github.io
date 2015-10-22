@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Reclaimed the master branch"
+date:   2015-10-22 17:00:35
+categories: eestecnet master
+---
+Today I made the decision to regain control of my product. I fixed the problems with eestec.net master and reclaimed my project.
+I am not afraid of the software that I created. I will fix those bugs.
+
+On a more serious note, I think the decision to rewrite everything in eestec.net was questionable. It told me a lot
+about AngularJS, django-rest-framework and client-server communication but it slowed down work significantly.
+I'm not dropping the version 3.0 release, but I will put more effort into maintaining the 2.0 version.
