@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Wozny&#39;s adventures with technology</title>
+    <description>A story of failure and epic win.
+</description>
+    <link>http://arpheno.github.io/</link>
+    <atom:link href="http://arpheno.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Oct 2015 15:54:24 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2015 15:54:24 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;Finally got the blog up. So apparently the cygwin version of ruby 2.4.8 will put the jekyll executable in &lt;code&gt;$HOME/bin&lt;/code&gt; out of all places.
+Anyway, I hope this will be a successful blog.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Oct 2015 17:42:35 +0200</pubDate>
+        <link>http://arpheno.github.io/jekyll/update/2015/10/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://arpheno.github.io/jekyll/update/2015/10/22/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
