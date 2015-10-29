@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "New webapp - backend.fail!"
+date:   2015-10-29 15:18:35
+categories: backendfail
+---
+I have started a new application which can be found at [https://backend.fail].
+
+It is a platform as a service, which let's users edit code examples of popular web frameworks
+like django or ruby on rails with an online interface. It takes care about installing the
+framework and databases for you and hosts your code to display the result of your code.
+
+I think this project has great potential, and I'm looking for help with it.
+
+You can find possibilities to contribute at [https://github.com/arpheno/backendfail/]
