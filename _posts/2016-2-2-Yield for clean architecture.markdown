@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Syncying two waves and low pass filtering a wave file with python"
+title:  "Clean architecture in python with yield"
 date:   2016-2-2 14:43:18
 categories: python clean-architecture coroutines generators yield
 ---
